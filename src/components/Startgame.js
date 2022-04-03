@@ -340,10 +340,6 @@ const Button = (props) =>{
     </>
   )
 }
-
-
-
-
-
+ 
 
 export default Startgame
